@@ -34,5 +34,5 @@ This is a **Hospital Management System** project built using **Java** and **MySQ
 
 ---
 
-## 📂 Project Structure
+
 
